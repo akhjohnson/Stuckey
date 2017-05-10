@@ -1,3 +1,99 @@
+.body {
+    background-color: #58585a;
+}
+
+.header {
+    background-color: #bcbdc0;
+    color: #f1592a;
+    line-height: 2em;
+    font-size: 1.5em;
+    font-weight: bold;
+    letter-spacing: 1.75px;
+    position: float;
+}
+
+.header li {
+    color: #f1592a;
+    padding-right: 25px;
+}
+
+.header li a {
+    color: #58585a;
+}
+
+.header li a:hover {
+    color: #f1592a;
+}
 .header img {
-    width: 250px;
+    width: 150px;
+}
+
+#grass {
+    background-image: url("grass2.jpg");
+    margin-top: 2%;
+    margin-left: 2%;
+    margin-right: 2%;
+
+}
+
+#question {
+    font-family: 'Roboto', sans-serif;
+    color: #d94a27;
+    font-size: 55px;
+}
+
+/*#question span {
+    background-color: #d94a27
+}*/
+
+#sentence {
+    color: white;
+    font-weight: bold;
+    line-height: 15px;
+}
+
+/*#sentence span {
+    background-color: #d94a27;
+}*/
+
+.row {
+    padding-left: 2%;
+    padding-right: 2%;
+}
+.thumbnail {
+    border: none;
+    text-align: center;
+    padding-bottom: 35px;
+    margin-top: 0.5%;
+    height: 550px;
+
+}
+
+.thumbnail img {
+    height: 350px;
+    width: 100%;
+}
+
+.button {
+    background-color: #d94a27;
+    color: white;
+}
+
+.caption {
+    color: #58585a;
+}
+
+.capt {
+    color: #58585a;
+}
+.footer {
+    background-color: #bcbdc0;
+}
+
+.footer img {
+    width: 150px;
+}
+
+.navbar-text {
+    color: white;
 }

@@ -40,16 +40,15 @@
     font-family: 'Roboto', sans-serif;
     color: #d94a27;
     font-size: 55px;
+    margin-left: 1%;
 }
 
-/*#question span {
-    background-color: #d94a27
-}*/
 
 #sentence {
     color: white;
     font-weight: bold;
     line-height: 15px;
+    margin-left: 1%;
 }
 
 /*#sentence span {
